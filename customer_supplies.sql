@@ -1,0 +1,14 @@
+-- CREATE TABLE Supplier (
+--     SupplierID SERIAL PRIMARY KEY,
+--     SupplierName VARCHAR(255) NOT NULL
+-- );
+-- CREATE TABLE "Order" (
+--     OrderID SERIAL PRIMARY KEY,
+--     OrderDate DATE NOT NULL,
+--     HeadquartersID INTEGER NOT NULL
+-- );
+-- 
+-- Create the OrderDetail table
+-- 
+-- Create the Delivery table
+-- 
